@@ -1,3 +1,6 @@
 [submodule "rofi"]
 	path = rofi
 	url = https://github.com/DaveDavenport/rofi.git
+[submodule "spotify-cli-linux"]
+	path = spotify-cli-linux
+	url = https://github.com/pwittchen/spotify-cli-linux.git
